@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; 'asdasd'
 
 var gulp          = require("gulp"),
     jade          = require("gulp-jade"),
